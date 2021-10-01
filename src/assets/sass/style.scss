@@ -1,0 +1,13 @@
+@import "./header.scss";
+@import "./about.scss";
+@import "./recruitment.scss";
+@import "./features.scss";
+// @import "./footer.scss";
+
+* {
+  box-sizing: border-box;
+  font-family: HelveticaNowDisplay, sans-serif;
+}
+
+@media screen and (max-width: 375px) {
+}
